@@ -38,4 +38,4 @@
 
 📝 Контакты
 Telegram: @wel23rus
-Email: we;23rus@gmail.com
+Email: wel23rus@gmail.com
