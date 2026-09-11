@@ -31,7 +31,10 @@
 Что сделано: HTTP‑сервис, обработка JSON, проверка обязательных полей, логирование в регистр сведений:
 <img width="1245" height="839" alt="image" src="https://github.com/user-attachments/assets/d2fe0332-2629-4e06-9dfc-b09f1bdd4873" />
 
-3. Пример кода запроса: <img width="787" height="858" alt="image" src="https://github.com/user-attachments/assets/f881b8ad-f3e8-4487-8f96-6629b0f05368" />
+
+3. Пример кода запроса:
+
+ <img width="787" height="858" alt="image" src="https://github.com/user-attachments/assets/f881b8ad-f3e8-4487-8f96-6629b0f05368" />
  
 
 🤝 Подход к работе
